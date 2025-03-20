@@ -1,0 +1,80 @@
+Round 1
+
+Auburn beats Alabama State with a 99.4% chance of winning
+Louisville beats Creighton with a 75.4% chance of winning
+UC San Diego beats Michigan with a 22.0% chance of winning
+Texas A&M beats Yale with a 91.7% chance of winning
+North Carolina beats Ole Miss with a 28.0% chance of winning
+Iowa State beats Lipscomb with a 97.2% chance of winning
+Marquette beats New Mexico with a 84.7% chance of winning
+Michigan State beats Bryant with a 97.0% chance of winning
+Florida beats Norfolk State with a 99.5% chance of winning
+UConn beats Oklahoma with a 81.0% chance of winning
+Colorado State beats Memphis with a 54.0% chance of winning
+Maryland beats Grand Canyon with a 94.3% chance of winning
+Missouri beats Drake with a 92.9% chance of winning
+Texas Tech beats UNC Wilmington with a 97.7% chance of winning
+Kansas beats Arkansas with a 93.4% chance of winning
+St. John's beats Omaha with a 97.0% chance of winning
+Duke beats Mount Saint Marys with a 99.6% chance of winning
+Baylor beats Mississippi State with a 53.5% chance of winning
+Oregon beats Liberty with a 77.5% chance of winning
+Arizona beats Akron with a 96.7% chance of winning
+VCU beats BYU with a 33.4% chance of winning
+Wisconsin beats Montana with a 94.7% chance of winning
+Saint Marys beats Vanderbilt with a 80.8% chance of winning
+Alabama beats Robert Morris with a 98.1% chance of winning
+Houston beats SIU-Edwardsville with a 99.1% chance of winning
+Gonzaga beats Georgia with a 96.1% chance of winning
+Clemson beats McNeese with a 90.0% chance of winning
+Purdue beats High Point with a 92.9% chance of winning
+Illinois beats Xavier with a 95.2% chance of winning
+Kentucky beats Troy with a 95.2% chance of winning
+UCLA beats Utah State with a 86.1% chance of winning
+Tennessee beats Wofford with a 98.0% chance of winning
+
+Round 2
+
+Auburn beats Louisville with a 94.9% chance of winning
+Texas A&M beats UC San Diego with a 84.6% chance of winning
+Iowa State beats North Carolina with a 91.5% chance of winning
+Michigan State beats Marquette with a 85.4% chance of winning
+Florida beats UConn with a 96.6% chance of winning
+Maryland beats Colorado State with a 93.3% chance of winning
+Texas Tech beats Missouri with a 76.0% chance of winning
+St. John's beats Kansas with a 69.6% chance of winning
+Duke beats Baylor with a 98.0% chance of winning
+Arizona beats Oregon with a 89.5% chance of winning
+Wisconsin beats VCU with a 78.2% chance of winning
+Alabama beats Saint Marys with a 87.3% chance of winning
+Houston beats Gonzaga with a 82.0% chance of winning
+Clemson beats Purdue with a 40.6% chance of winning
+Kentucky beats Illinois with a 49.5% chance of winning
+Tennessee beats UCLA with a 89.0% chance of winning
+
+Round 3
+
+Auburn beats Texas A&M with a 93.8% chance of winning
+Michigan State beats Iowa State with a 48.3% chance of winning
+Maryland beats Florida with a 7.6% chance of winning
+St. John's beats Texas Tech with a 43.6% chance of winning
+Duke beats Arizona with a 89.0% chance of winning
+Wisconsin beats Alabama with a 25.3% chance of winning
+Houston beats Clemson with a 92.5% chance of winning
+Tennessee beats Kentucky with a 71.8% chance of winning
+
+Round 4
+
+Auburn beats Michigan State with a 83.8% chance of winning
+St. John's beats Maryland with a 66.3% chance of winning
+Duke beats Wisconsin with a 93.0% chance of winning
+Houston beats Tennessee with a 69.0% chance of winning
+
+Round 5
+
+Auburn beats St. John's with a 83.8% chance of winning
+Houston beats Duke with a 31.8% chance of winning
+
+Round 6
+
+Auburn beats Houston with a 60.0% chance of winning
